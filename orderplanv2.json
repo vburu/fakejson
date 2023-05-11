@@ -1,0 +1,1868 @@
+{
+  "result": [
+    {
+      "cropAidId": 16,
+      "cropAidName": "Acrobat",
+      "orderLineIds": [
+        1986,
+        2049,
+        2077
+      ],
+      "packageId": 889,
+      "unitOfMeasurement": "KG",
+      "customerProductInventoryAmount": 30,
+      "orderLinesTotalAmount": 110,
+      "requisiteAmount": 65.79,
+      "packageAmount": 10,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 74.21,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 4,
+          "requisiteAmount": 66,
+          "orderLinesTotalAmount": 40,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 4,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 40,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 3,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 30,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 15,
+      "cropAidName": "ACS Zwavel",
+      "orderLineIds": [
+        1987,
+        1988,
+        1989,
+        2020,
+        2076
+      ],
+      "packageId": 880,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 81,
+      "orderLinesTotalAmount": 460,
+      "requisiteAmount": 366.72,
+      "packageAmount": 10,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 174.28,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 9,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 90,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 3,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 30,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 3,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 30,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 2,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 20,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 29,
+          "requisiteAmount": 367,
+          "orderLinesTotalAmount": 290,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 21,
+      "cropAidName": "Actisil",
+      "orderLineIds": [
+        1983,
+        1984,
+        1985,
+        1990
+      ],
+      "packageId": 891,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 35,
+      "requisiteAmount": 0,
+      "packageAmount": 5,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 35,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 1,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 5,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 1,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 5,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 1,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 5,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 4,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 20,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 25,
+      "cropAidName": "Admire",
+      "orderLineIds": [
+        1897,
+        1946
+      ],
+      "packageId": 895,
+      "unitOfMeasurement": "G",
+      "customerProductInventoryAmount": 42,
+      "orderLinesTotalAmount": 14000,
+      "requisiteAmount": 55.2,
+      "packageAmount": 1,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 13986.8,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 10,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 10000,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 4,
+          "requisiteAmount": 55,
+          "orderLinesTotalAmount": 4000,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 28,
+      "cropAidName": "Agral Gold",
+      "orderLineIds": [
+        2078
+      ],
+      "packageId": 887,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 68,
+      "orderLinesTotalAmount": 99,
+      "requisiteAmount": 166.22,
+      "packageAmount": 1,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": true,
+      "result": 0.78,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 99,
+          "requisiteAmount": 166,
+          "orderLinesTotalAmount": 99,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 33,
+      "cropAidName": "Agrolut. 14-7-14-14Cao+Sp",
+      "orderLineIds": [
+        2063,
+        2067
+      ],
+      "packageId": 899,
+      "unitOfMeasurement": "KG",
+      "customerProductInventoryAmount": 13.15,
+      "orderLinesTotalAmount": 84,
+      "requisiteAmount": 94.15,
+      "packageAmount": 1,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 3,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 3,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 3,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 81,
+          "requisiteAmount": 94,
+          "orderLinesTotalAmount": 81,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 34,
+      "cropAidName": "Akris",
+      "orderLineIds": [
+        1870,
+        1888,
+        1968
+      ],
+      "packageId": 900,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 4470,
+      "requisiteAmount": 1466.88,
+      "packageAmount": 10,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 3003.12,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 6,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 60,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 147,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 1470,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 294,
+          "requisiteAmount": 1467,
+          "orderLinesTotalAmount": 2940,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 36,
+      "cropAidName": "Alena",
+      "orderLineIds": [
+        2079
+      ],
+      "packageId": 901,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 90,
+      "requisiteAmount": 87.72,
+      "packageAmount": 5,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": true,
+      "result": 2.28,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 18,
+          "requisiteAmount": 88,
+          "orderLinesTotalAmount": 90,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 40,
+      "cropAidName": "Aminosol",
+      "orderLineIds": [
+        2081
+      ],
+      "packageId": 917,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 10,
+      "requisiteAmount": 43.86,
+      "packageAmount": 10,
+      "isMainCropAid": null,
+      "isPackage": true,
+      "addedByOptimizer": true,
+      "result": -33.86,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 1,
+          "requisiteAmount": 44,
+          "orderLinesTotalAmount": 10,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 40,
+      "cropAidName": "Aminosol",
+      "orderLineIds": [
+        2080
+      ],
+      "packageId": 918,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 40,
+      "requisiteAmount": 43.86,
+      "packageAmount": 20,
+      "isMainCropAid": null,
+      "isPackage": true,
+      "addedByOptimizer": true,
+      "result": -3.86,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 2,
+          "requisiteAmount": 44,
+          "orderLinesTotalAmount": 40,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 41,
+      "cropAidName": "Amistar",
+      "orderLineIds": [
+        1880,
+        1882,
+        1887,
+        2083
+      ],
+      "packageId": 904,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 6,
+      "orderLinesTotalAmount": 25,
+      "requisiteAmount": 349.09,
+      "packageAmount": 5,
+      "isMainCropAid": null,
+      "isPackage": true,
+      "addedByOptimizer": false,
+      "result": -318.09,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 1,
+          "requisiteAmount": 339,
+          "orderLinesTotalAmount": 5,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 1,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 5,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 10,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 2,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 10,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 1,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 5,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 41,
+      "cropAidName": "Amistar",
+      "orderLineIds": [
+        2082,
+        2084
+      ],
+      "packageId": 905,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 6,
+      "orderLinesTotalAmount": 340,
+      "requisiteAmount": 349.09,
+      "packageAmount": 10,
+      "isMainCropAid": null,
+      "isPackage": true,
+      "addedByOptimizer": true,
+      "result": -3.09,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 33,
+          "requisiteAmount": 339,
+          "orderLinesTotalAmount": 330,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 1,
+          "requisiteAmount": 10,
+          "orderLinesTotalAmount": 10,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 45,
+      "cropAidName": "Amnitra",
+      "orderLineIds": [
+        2050,
+        2085
+      ],
+      "packageId": 908,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 120,
+      "requisiteAmount": 43.86,
+      "packageAmount": 20,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 76.14,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 3,
+          "requisiteAmount": 44,
+          "orderLinesTotalAmount": 60,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 3,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 60,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 64,
+      "cropAidName": "Bellis",
+      "orderLineIds": [
+        1886,
+        2086
+      ],
+      "packageId": 937,
+      "unitOfMeasurement": "KG",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 140,
+      "requisiteAmount": 68.52,
+      "packageAmount": 5,
+      "isMainCropAid": null,
+      "isPackage": false,
+      "addedByOptimizer": false,
+      "result": 71.48,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 14,
+          "requisiteAmount": 69,
+          "orderLinesTotalAmount": 70,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 14,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 70,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 538,
+      "cropAidName": "Zwavelzuur",
+      "orderLineIds": [
+        1866,
+        1876,
+        1878,
+        1881,
+        1883,
+        1885
+      ],
+      "packageId": 1556,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 280,
+      "requisiteAmount": 0,
+      "packageAmount": 20,
+      "isMainCropAid": null,
+      "isPackage": true,
+      "addedByOptimizer": false,
+      "result": 280,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 2,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 40,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 2,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 40,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 2,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 40,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 1,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 20,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 5,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 100,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 2,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 40,
+          "isDisabled": false
+        }
+      ]
+    },
+    {
+      "cropAidId": 538,
+      "cropAidName": "Zwavelzuur",
+      "orderLineIds": [
+        1898
+      ],
+      "packageId": 1557,
+      "unitOfMeasurement": "L",
+      "customerProductInventoryAmount": 0,
+      "orderLinesTotalAmount": 800,
+      "requisiteAmount": 0,
+      "packageAmount": 200,
+      "isMainCropAid": null,
+      "isPackage": true,
+      "addedByOptimizer": false,
+      "result": 800,
+      "orderplanPeriods": [
+        {
+          "periodId": 170,
+          "periodName": "VO 1",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 171,
+          "periodName": "VO 2",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 172,
+          "periodName": "VO 3",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": true
+        },
+        {
+          "periodId": 173,
+          "periodName": "VO 4",
+          "packageCount": 4,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 800,
+          "isDisabled": true
+        },
+        {
+          "periodId": 174,
+          "periodName": "VO 5",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 175,
+          "periodName": "VO 6",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 176,
+          "periodName": "VO 7",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 177,
+          "periodName": "VO 8",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 178,
+          "periodName": "VO 9",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 179,
+          "periodName": "VO 10",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 180,
+          "periodName": "VO 11",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        },
+        {
+          "periodId": 181,
+          "periodName": "VO 12",
+          "packageCount": 0,
+          "requisiteAmount": 0,
+          "orderLinesTotalAmount": 0,
+          "isDisabled": false
+        }
+      ]
+    }
+  ]
+}
